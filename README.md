@@ -1,2 +1,2 @@
-# nativclient-api
-Unsere generelle API
+# APIs
+Hier gibt es verschiedene APIs für unsere Programme
