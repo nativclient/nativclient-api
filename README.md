@@ -1,2 +1,5 @@
-# APIs
-Hier gibt es verschiedene APIs für unsere Programme
+# NativAPI
+Die APIs zum Abrufen von Daten unserer Software
+
+## NativClient ✔️
+## Nativ-Webspiele ❌
